@@ -1,7 +1,7 @@
 # info
 So, theoretically, it works, but there are limitations because to rely on OpenAI server libraries, a higher plan than the basic one is required. In theory, everything is functioning.
 
-Certainly! To get the code you provided to work, you need to have the OpenAI Python library installed. You can install it using the following command:
+To get the code you provided to work, you need to have the OpenAI Python library installed. You can install it using the following command:
 
 ```bash
 pip install openai
